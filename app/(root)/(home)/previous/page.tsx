@@ -1,3 +1,5 @@
+'use client'
+
 import CallList from '@/components/CallList'
 import React from 'react'
 
